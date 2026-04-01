@@ -1,0 +1,24 @@
+:root {
+  background: #fff4b4;
+  color: #924900;
+  text-align: center;
+}
+.links {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  gap: 20px;
+}
+a {
+  color: #ee7085;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.mail {
+  color: #502800;
+}
